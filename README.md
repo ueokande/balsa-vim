@@ -26,8 +26,8 @@ Or to set filetype automatically, add the following description into `~/.vim/fil
     au BufNewFile,BufRead *.balsa                   setf balsa
 
 
-Copyright & MIT
----------------
+Copyright & Lisence
+-------------------
 
 Copyright (c) 2013 Shin'ya Ueoka.
 This is licensed under MIT lisence.
