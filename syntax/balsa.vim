@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language: Balsa (ft=balsa)
-" Maintainer: Shin'ya Ueoka <qeexee@apanum.org>
+" Maintainer: Shin'ya Ueoka <qeexee@i-beam.org>
 " Last Change: version 1.0 (2013-05-31)
 " Filetype: balsa
 
